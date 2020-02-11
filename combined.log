@@ -1,0 +1,8 @@
+[2020-02-11T01:26:50.222Z] [info] [START] Loading Controllers 
+[2020-02-11T01:26:50.223Z] [info] [START] Loading Express 
+[2020-02-11T01:26:50.235Z] [info] [START] Loading Swagger 
+[2020-02-11T01:26:50.240Z] [info] [START] Loading Monitor 
+[2020-02-11T01:26:50.242Z] [info] [START] Loading Root JSON 
+[2020-02-11T01:26:50.243Z] [info] [START] Loading Public Dir 
+[2020-02-11T01:26:50.243Z] [info] [START] Server is running! 
+[2020-02-11T01:26:50.245Z] [info] [START] Server Listening 8884 
