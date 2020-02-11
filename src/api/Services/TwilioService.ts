@@ -11,10 +11,11 @@ export default class TwilioService {
     }
 
     public sendMessage(to: string, message: string): void {
+        const MAX_LENGTH = 1000;
         let i = 0;
-        while (message.length > 1600) {
-            let m = message.substring((i * 1600), ((i+1) * 1600) - 1);
-            message = message.substring((i+1) * 1600);
+        while (message.length > MAX_LENGTH) {
+            let m = message.substring((i * MAX_LENGTH), ((i+1) * MAX_LENGTH) - 1);
+            message = message.substring((i+1) * MAX_LENGTH);
             this.client.messages.create({
                 body: m,
                 from: env.twilio.phoneNumber,
