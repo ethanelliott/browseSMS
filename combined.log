@@ -558,3 +558,37 @@ undefined
 [2020-02-11T06:18:20.579Z] [debug] [EXPRESS] GET /api/receive 
 [2020-02-11T06:18:59.927Z] [debug] [EXPRESS] GET /api/receive 
 [2020-02-11T06:19:19.638Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:51:55.635Z] [info] [START] Loading Controllers 
+[2020-02-11T06:51:55.636Z] [info] [START] Loading Express 
+[2020-02-11T06:51:55.649Z] [info] [START] Loading Swagger 
+[2020-02-11T06:51:55.657Z] [info] [START] Loading Monitor 
+[2020-02-11T06:51:55.661Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:51:55.661Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:51:55.662Z] [info] [START] Server is running! 
+[2020-02-11T06:51:55.663Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:52:02.487Z] [info] [START] Loading Controllers 
+[2020-02-11T06:52:02.488Z] [info] [START] Loading Express 
+[2020-02-11T06:52:02.501Z] [info] [START] Loading Swagger 
+[2020-02-11T06:52:02.508Z] [info] [START] Loading Monitor 
+[2020-02-11T06:52:02.511Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:52:02.511Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:52:02.512Z] [info] [START] Server is running! 
+[2020-02-11T06:52:02.513Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:52:09.424Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:52:39.968Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:53:27.046Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:55:38.182Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:56:25.701Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:58:06.502Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:58:54.660Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:59:30.588Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T07:03:23.740Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T07:04:34.587Z] [info] [START] Loading Controllers 
+[2020-02-11T07:04:34.589Z] [info] [START] Loading Express 
+[2020-02-11T07:04:34.604Z] [info] [START] Loading Swagger 
+[2020-02-11T07:04:34.611Z] [info] [START] Loading Monitor 
+[2020-02-11T07:04:34.614Z] [info] [START] Loading Root JSON 
+[2020-02-11T07:04:34.614Z] [info] [START] Loading Public Dir 
+[2020-02-11T07:04:34.615Z] [info] [START] Server is running! 
+[2020-02-11T07:04:34.616Z] [info] [START] Server Listening 8884 
+[2020-02-11T07:05:10.364Z] [debug] [EXPRESS] GET /api/receive 
