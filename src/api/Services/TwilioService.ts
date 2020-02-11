@@ -11,14 +11,19 @@ export default class TwilioService {
     }
 
     public sendMessage(to: string, message: string): void {
-        this.client.messages.create({
-            body: message,
-            from: env.twilio.phoneNumber,
-            to: to
-        }).then(message => {
-            console.log(message);
-        }).catch(err => {
-            console.error(err);
-        })
+        let i = 0;
+        while (message.length > 1600) {
+            let m = message.substring((i * 1600), ((i+1) * 1600));
+            this.client.messages.create({
+                body: m,
+                from: env.twilio.phoneNumber,
+                to: to
+            }).then(message => {
+                console.log(message);
+            }).catch(err => {
+                console.error(err);
+            });
+            i++;
+        }
     }
 }
