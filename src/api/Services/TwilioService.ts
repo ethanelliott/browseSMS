@@ -10,21 +10,19 @@ export default class TwilioService {
         this.client = twilio(env.twilio.accountSid, env.twilio.authToken);
     }
 
-    public sendMessage(to: string, message: string): void {
-        const MAX_LENGTH = 400;
+    public async sendMessage(to: string, message: string): Promise<void> {
+        const MAX_LENGTH = 100;
         let i = 0;
         while (message.length > MAX_LENGTH) {
             let m = message.substring((i * MAX_LENGTH), ((i+1) * MAX_LENGTH) - 1);
             message = message.substring((i+1) * MAX_LENGTH);
-            this.client.messages.create({
+             let response = await this.client.messages.create({
                 body: m,
                 from: env.twilio.phoneNumber,
                 to: to
-            }).then(message => {
-                console.log(message);
-            }).catch(err => {
-                console.error(err);
             });
+             console.log(message, m);
+             console.log(`m: ${i}`, response);
             i++;
         }
     }
