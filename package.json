@@ -4,12 +4,13 @@
   "description": "BrowseSMS",
   "main": "./dist/app.js",
   "scripts": {
+    "addtsc": "npm install -g typescript",
     "build": "tsc",
     "serve": "node ./dist/app.js",
     "watch-ts": "tsc -w",
     "watch-node": "nodemon ./dist/app.js",
     "generate-secret": "openssl ecparam -name prime256v1 -genkey -noout -out ./key.pem",
-    "start": "npm run generate-secret && npm run build && npm run serve"
+    "start": "npm run generate-secret && npm run addtsc && npm run build && npm run serve"
   },
   "engines": {
     "node": ">=8.0.0"
