@@ -15,7 +15,7 @@ export default class TwilioService {
         let i = 0;
         while (message.length > MAX_LENGTH) {
             let m = message.substring((i * MAX_LENGTH), ((i+1) * MAX_LENGTH) - 1);
-            message = message.substring((i+1) * MAX_LENGTH);
+            message = message.substring((i) * MAX_LENGTH);
              let response = await this.client.messages.create({
                 body: m,
                 from: env.twilio.phoneNumber,
