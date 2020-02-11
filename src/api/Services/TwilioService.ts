@@ -13,8 +13,9 @@ export default class TwilioService {
     public async sendMessage(to: string, message: string): Promise<void> {
         const MAX_LENGTH = 100;
         let i = 0;
+        let maxMessage = (message.length / MAX_LENGTH) + 1;
         while (message.length > MAX_LENGTH) {
-            let m = message.substring(0, (MAX_LENGTH) - 1);
+            let m = `[${i}|${maxMessage}]${message.substring(0, (MAX_LENGTH) - 1)}`;
             message = message.substring(MAX_LENGTH);
              let response = await this.client.messages.create({
                 body: m,
