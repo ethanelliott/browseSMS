@@ -29,4 +29,9 @@ export const env = {
         route: getOsEnv('MONITOR_ROUTE'),
         enabled: getOsEnv('MONITOR_ENABLED')
     },
+    twilio: {
+        accountSid: getOsEnv('TWILIO_ACCOUNT_SID'),
+        authToken: getOsEnv('TWILIO_AUTH_TOKEN'),
+        phoneNumber: getOsEnv('TWILIO_PHONE_NUMBER'),
+    }
 };
