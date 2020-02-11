@@ -17,13 +17,11 @@ export default class TwilioService {
         while (message.length > MAX_LENGTH) {
             let m = `[${i}|${maxMessage}]${message.substring(0, (MAX_LENGTH) - 1)}`;
             message = message.substring(MAX_LENGTH);
-             let response = await this.client.messages.create({
+             await this.client.messages.create({
                 body: m,
                 from: env.twilio.phoneNumber,
                 to: to
             });
-             console.log(message, `\n\n`, m, `\n\n`);
-             console.log(`m: ${i}`, response);
             i++;
         }
     }
