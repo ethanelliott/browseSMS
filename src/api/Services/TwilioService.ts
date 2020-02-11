@@ -21,7 +21,7 @@ export default class TwilioService {
                 from: env.twilio.phoneNumber,
                 to: to
             });
-             console.log(message, m);
+             console.log(message, `\n\n`, m, `\n\n`);
              console.log(`m: ${i}`, response);
             i++;
         }
