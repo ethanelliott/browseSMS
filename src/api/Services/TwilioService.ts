@@ -17,6 +17,8 @@ export default class TwilioService {
             to: to
         }).then(message => {
             console.log(message);
+        }).catch(err => {
+            console.error(err);
         })
     }
 }
