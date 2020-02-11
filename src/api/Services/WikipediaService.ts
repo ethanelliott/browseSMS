@@ -6,8 +6,8 @@ export default class WikipediaService {
     constructor() {
     }
 
-    public async getPage(): Promise<any> {
-        return await wiki().page('Node.js')
+    public async getPage(pageName: any): Promise<any> {
+        return await wiki().page(pageName);
     }
 
 }

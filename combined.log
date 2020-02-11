@@ -72,3 +72,489 @@
 [2020-02-11T02:02:36.499Z] [info] [START] Loading Public Dir 
 [2020-02-11T02:02:36.500Z] [info] [START] Server is running! 
 [2020-02-11T02:02:36.501Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:38:31.633Z] [info] [START] Loading Controllers 
+[2020-02-11T03:38:31.634Z] [info] [START] Loading Express 
+[2020-02-11T03:38:31.649Z] [info] [START] Loading Swagger 
+[2020-02-11T03:38:31.656Z] [info] [START] Loading Monitor 
+[2020-02-11T03:38:31.666Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:38:31.666Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:38:31.667Z] [info] [START] Server is running! 
+[2020-02-11T03:38:31.668Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:39:27.036Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:40:03.808Z] [info] [START] Loading Controllers 
+[2020-02-11T03:40:03.810Z] [info] [START] Loading Express 
+[2020-02-11T03:40:03.833Z] [info] [START] Loading Swagger 
+[2020-02-11T03:40:03.841Z] [info] [START] Loading Monitor 
+[2020-02-11T03:40:03.844Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:40:03.845Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:40:03.846Z] [info] [START] Server is running! 
+[2020-02-11T03:40:03.847Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:40:36.570Z] [info] [START] Loading Controllers 
+[2020-02-11T03:40:36.571Z] [info] [START] Loading Express 
+[2020-02-11T03:40:36.587Z] [info] [START] Loading Swagger 
+[2020-02-11T03:40:36.594Z] [info] [START] Loading Monitor 
+[2020-02-11T03:40:36.598Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:40:36.598Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:40:36.599Z] [info] [START] Server is running! 
+[2020-02-11T03:40:36.600Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:40:39.230Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:41:13.315Z] [info] [START] Loading Controllers 
+[2020-02-11T03:41:13.316Z] [info] [START] Loading Express 
+[2020-02-11T03:41:13.329Z] [info] [START] Loading Swagger 
+[2020-02-11T03:41:13.337Z] [info] [START] Loading Monitor 
+[2020-02-11T03:41:13.340Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:41:13.340Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:41:13.341Z] [info] [START] Server is running! 
+[2020-02-11T03:41:13.342Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:41:19.104Z] [info] [START] Loading Controllers 
+[2020-02-11T03:41:19.105Z] [info] [START] Loading Express 
+[2020-02-11T03:41:19.123Z] [info] [START] Loading Swagger 
+[2020-02-11T03:41:19.130Z] [info] [START] Loading Monitor 
+[2020-02-11T03:41:19.133Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:41:19.134Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:41:19.134Z] [info] [START] Server is running! 
+[2020-02-11T03:41:19.135Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:41:19.294Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:42:01.689Z] [info] [START] Loading Controllers 
+[2020-02-11T03:42:01.690Z] [info] [START] Loading Express 
+[2020-02-11T03:42:01.713Z] [info] [START] Loading Swagger 
+[2020-02-11T03:42:01.724Z] [info] [START] Loading Monitor 
+[2020-02-11T03:42:01.732Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:42:01.742Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:42:01.745Z] [info] [START] Server is running! 
+[2020-02-11T03:42:01.747Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:42:03.340Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:42:30.949Z] [info] [START] Loading Controllers 
+[2020-02-11T03:42:30.950Z] [info] [START] Loading Express 
+[2020-02-11T03:42:30.965Z] [info] [START] Loading Swagger 
+[2020-02-11T03:42:30.974Z] [info] [START] Loading Monitor 
+[2020-02-11T03:42:30.978Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:42:30.978Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:42:30.979Z] [info] [START] Server is running! 
+[2020-02-11T03:42:30.979Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:42:33.758Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:43:29.584Z] [info] [START] Loading Controllers 
+[2020-02-11T03:43:29.585Z] [info] [START] Loading Express 
+[2020-02-11T03:43:29.603Z] [info] [START] Loading Swagger 
+[2020-02-11T03:43:29.613Z] [info] [START] Loading Monitor 
+[2020-02-11T03:43:29.616Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:43:29.617Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:43:29.617Z] [info] [START] Server is running! 
+[2020-02-11T03:43:29.618Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:43:33.593Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:45:45.251Z] [info] [START] Loading Controllers 
+[2020-02-11T03:45:45.252Z] [info] [START] Loading Express 
+[2020-02-11T03:45:45.265Z] [info] [START] Loading Swagger 
+[2020-02-11T03:45:45.271Z] [info] [START] Loading Monitor 
+[2020-02-11T03:45:45.274Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:45:45.274Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:45:45.274Z] [info] [START] Server is running! 
+[2020-02-11T03:45:45.275Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:45:54.841Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:47:20.714Z] [info] [START] Loading Controllers 
+[2020-02-11T03:47:20.716Z] [info] [START] Loading Express 
+[2020-02-11T03:47:20.735Z] [info] [START] Loading Swagger 
+[2020-02-11T03:47:20.741Z] [info] [START] Loading Monitor 
+[2020-02-11T03:47:20.745Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:47:20.746Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:47:20.747Z] [info] [START] Server is running! 
+[2020-02-11T03:47:20.748Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:48:33.688Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:51:06.144Z] [info] [START] Loading Controllers 
+[2020-02-11T03:51:06.145Z] [info] [START] Loading Express 
+[2020-02-11T03:51:06.160Z] [info] [START] Loading Swagger 
+[2020-02-11T03:51:06.167Z] [info] [START] Loading Monitor 
+[2020-02-11T03:51:06.169Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:51:06.170Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:51:06.170Z] [info] [START] Server is running! 
+[2020-02-11T03:51:06.172Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:51:37.039Z] [info] [START] Loading Controllers 
+[2020-02-11T03:51:37.040Z] [info] [START] Loading Express 
+[2020-02-11T03:51:37.056Z] [info] [START] Loading Swagger 
+[2020-02-11T03:51:37.063Z] [info] [START] Loading Monitor 
+[2020-02-11T03:51:37.067Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:51:37.067Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:51:37.068Z] [info] [START] Server is running! 
+[2020-02-11T03:51:37.069Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:51:58.617Z] [info] [START] Loading Controllers 
+[2020-02-11T03:51:58.618Z] [info] [START] Loading Express 
+[2020-02-11T03:51:58.634Z] [info] [START] Loading Swagger 
+[2020-02-11T03:51:58.640Z] [info] [START] Loading Monitor 
+[2020-02-11T03:51:58.643Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:51:58.644Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:51:58.644Z] [info] [START] Server is running! 
+[2020-02-11T03:51:58.645Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:52:21.932Z] [info] [START] Loading Controllers 
+[2020-02-11T03:52:21.933Z] [info] [START] Loading Express 
+[2020-02-11T03:52:21.948Z] [info] [START] Loading Swagger 
+[2020-02-11T03:52:21.955Z] [info] [START] Loading Monitor 
+[2020-02-11T03:52:21.958Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:52:21.958Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:52:21.959Z] [info] [START] Server is running! 
+[2020-02-11T03:52:21.960Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:52:29.996Z] [info] [START] Loading Controllers 
+[2020-02-11T03:52:29.997Z] [info] [START] Loading Express 
+[2020-02-11T03:52:30.012Z] [info] [START] Loading Swagger 
+[2020-02-11T03:52:30.019Z] [info] [START] Loading Monitor 
+[2020-02-11T03:52:30.022Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:52:30.022Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:52:30.023Z] [info] [START] Server is running! 
+[2020-02-11T03:52:30.024Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:52:33.483Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:54:08.621Z] [info] [START] Loading Controllers 
+[2020-02-11T03:54:08.622Z] [info] [START] Loading Express 
+[2020-02-11T03:54:08.638Z] [info] [START] Loading Swagger 
+[2020-02-11T03:54:08.646Z] [info] [START] Loading Monitor 
+[2020-02-11T03:54:08.649Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:54:08.649Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:54:08.650Z] [info] [START] Server is running! 
+[2020-02-11T03:54:08.651Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:54:09.532Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:55:49.507Z] [info] [START] Loading Controllers 
+[2020-02-11T03:55:49.508Z] [info] [START] Loading Express 
+[2020-02-11T03:55:49.523Z] [info] [START] Loading Swagger 
+[2020-02-11T03:55:49.530Z] [info] [START] Loading Monitor 
+[2020-02-11T03:55:49.532Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:55:49.533Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:55:49.533Z] [info] [START] Server is running! 
+[2020-02-11T03:55:49.534Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:56:11.584Z] [info] [START] Loading Controllers 
+[2020-02-11T03:56:11.585Z] [info] [START] Loading Express 
+[2020-02-11T03:56:11.601Z] [info] [START] Loading Swagger 
+[2020-02-11T03:56:11.612Z] [info] [START] Loading Monitor 
+[2020-02-11T03:56:11.614Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:56:11.615Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:56:11.615Z] [info] [START] Server is running! 
+[2020-02-11T03:56:11.616Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:56:13.858Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:56:41.110Z] [info] [START] Loading Controllers 
+[2020-02-11T03:56:41.111Z] [info] [START] Loading Express 
+[2020-02-11T03:56:41.129Z] [info] [START] Loading Swagger 
+[2020-02-11T03:56:41.136Z] [info] [START] Loading Monitor 
+[2020-02-11T03:56:41.139Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:56:41.139Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:56:41.140Z] [info] [START] Server is running! 
+[2020-02-11T03:56:41.140Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:56:44.149Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:58:10.632Z] [info] [START] Loading Controllers 
+[2020-02-11T03:58:10.633Z] [info] [START] Loading Express 
+[2020-02-11T03:58:10.647Z] [info] [START] Loading Swagger 
+[2020-02-11T03:58:10.655Z] [info] [START] Loading Monitor 
+[2020-02-11T03:58:10.657Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:58:10.657Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:58:10.658Z] [info] [START] Server is running! 
+[2020-02-11T03:58:10.660Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:58:17.560Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T03:59:03.896Z] [info] [START] Loading Controllers 
+[2020-02-11T03:59:03.897Z] [info] [START] Loading Express 
+[2020-02-11T03:59:03.911Z] [info] [START] Loading Swagger 
+[2020-02-11T03:59:03.917Z] [info] [START] Loading Monitor 
+[2020-02-11T03:59:03.921Z] [info] [START] Loading Root JSON 
+[2020-02-11T03:59:03.921Z] [info] [START] Loading Public Dir 
+[2020-02-11T03:59:03.922Z] [info] [START] Server is running! 
+[2020-02-11T03:59:03.923Z] [info] [START] Server Listening 8884 
+[2020-02-11T03:59:08.772Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:06:03.395Z] [info] [START] Loading Controllers 
+[2020-02-11T04:06:03.396Z] [info] [START] Loading Express 
+[2020-02-11T04:06:03.413Z] [info] [START] Loading Swagger 
+[2020-02-11T04:06:03.420Z] [info] [START] Loading Monitor 
+[2020-02-11T04:06:03.424Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:06:03.425Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:06:03.425Z] [info] [START] Server is running! 
+[2020-02-11T04:06:03.426Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:06:05.919Z] [info] [START] Loading Controllers 
+[2020-02-11T04:06:05.920Z] [info] [START] Loading Express 
+[2020-02-11T04:06:05.938Z] [info] [START] Loading Swagger 
+[2020-02-11T04:06:05.945Z] [info] [START] Loading Monitor 
+[2020-02-11T04:06:05.948Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:06:05.948Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:06:05.948Z] [info] [START] Server is running! 
+[2020-02-11T04:06:05.949Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:07:45.519Z] [info] [START] Loading Controllers 
+[2020-02-11T04:07:45.520Z] [info] [START] Loading Express 
+[2020-02-11T04:07:45.533Z] [info] [START] Loading Swagger 
+[2020-02-11T04:07:45.540Z] [info] [START] Loading Monitor 
+[2020-02-11T04:07:45.542Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:07:45.543Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:07:45.543Z] [info] [START] Server is running! 
+[2020-02-11T04:07:45.544Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:07:49.835Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:08:31.096Z] [info] [START] Loading Controllers 
+[2020-02-11T04:08:31.096Z] [info] [START] Loading Express 
+[2020-02-11T04:08:31.110Z] [info] [START] Loading Swagger 
+[2020-02-11T04:08:31.117Z] [info] [START] Loading Monitor 
+[2020-02-11T04:08:31.120Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:08:31.121Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:08:31.121Z] [info] [START] Server is running! 
+[2020-02-11T04:08:31.122Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:08:33.626Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:09:27.727Z] [info] [START] Loading Controllers 
+[2020-02-11T04:09:27.729Z] [info] [START] Loading Express 
+[2020-02-11T04:09:27.741Z] [info] [START] Loading Swagger 
+[2020-02-11T04:09:27.749Z] [info] [START] Loading Monitor 
+[2020-02-11T04:09:27.752Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:09:27.753Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:09:27.753Z] [info] [START] Server is running! 
+[2020-02-11T04:09:27.754Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:09:36.574Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:12:27.384Z] [info] [START] Loading Controllers 
+[2020-02-11T04:12:27.385Z] [info] [START] Loading Express 
+[2020-02-11T04:12:27.401Z] [info] [START] Loading Swagger 
+[2020-02-11T04:12:27.408Z] [info] [START] Loading Monitor 
+[2020-02-11T04:12:27.411Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:12:27.412Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:12:27.413Z] [info] [START] Server is running! 
+[2020-02-11T04:12:27.414Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:14:18.350Z] [info] [START] Loading Controllers 
+[2020-02-11T04:14:18.351Z] [info] [START] Loading Express 
+[2020-02-11T04:14:18.367Z] [info] [START] Loading Swagger 
+[2020-02-11T04:14:18.373Z] [info] [START] Loading Monitor 
+[2020-02-11T04:14:18.376Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:14:18.377Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:14:18.377Z] [info] [START] Server is running! 
+[2020-02-11T04:14:18.378Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:17:56.682Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:26:39.169Z] [info] [START] Loading Controllers 
+[2020-02-11T04:26:39.170Z] [info] [START] Loading Express 
+[2020-02-11T04:26:39.183Z] [info] [START] Loading Swagger 
+[2020-02-11T04:26:39.192Z] [info] [START] Loading Monitor 
+[2020-02-11T04:26:39.195Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:26:39.196Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:26:39.197Z] [info] [START] Server is running! 
+[2020-02-11T04:26:39.198Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:26:47.020Z] [info] [START] Loading Controllers 
+[2020-02-11T04:26:47.021Z] [info] [START] Loading Express 
+[2020-02-11T04:26:47.034Z] [info] [START] Loading Swagger 
+[2020-02-11T04:26:47.044Z] [info] [START] Loading Monitor 
+[2020-02-11T04:26:47.047Z] [info] [START] Loading Root JSON 
+[2020-02-11T04:26:47.047Z] [info] [START] Loading Public Dir 
+[2020-02-11T04:26:47.048Z] [info] [START] Server is running! 
+[2020-02-11T04:26:47.049Z] [info] [START] Server Listening 8884 
+[2020-02-11T04:26:59.142Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:50:23.383Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T04:55:13.632Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:00:37.389Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:04:02.615Z] [info] [START] Loading Controllers 
+[2020-02-11T05:04:02.617Z] [info] [START] Loading Express 
+[2020-02-11T05:04:02.631Z] [info] [START] Loading Swagger 
+[2020-02-11T05:04:02.638Z] [info] [START] Loading Monitor 
+[2020-02-11T05:04:02.640Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:04:02.641Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:04:02.641Z] [info] [START] Server is running! 
+[2020-02-11T05:04:02.642Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:04:42.872Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:04:45.759Z] [error] Error Authenticate
+undefined 
+[2020-02-11T05:05:07.667Z] [info] [START] Loading Controllers 
+[2020-02-11T05:05:07.668Z] [info] [START] Loading Express 
+[2020-02-11T05:05:07.681Z] [info] [START] Loading Swagger 
+[2020-02-11T05:05:07.689Z] [info] [START] Loading Monitor 
+[2020-02-11T05:05:07.692Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:05:07.692Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:05:07.693Z] [info] [START] Server is running! 
+[2020-02-11T05:05:07.694Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:05:17.047Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:05:17.987Z] [error] Error Authenticate
+undefined 
+[2020-02-11T05:08:42.746Z] [info] [START] Loading Controllers 
+[2020-02-11T05:08:42.747Z] [info] [START] Loading Express 
+[2020-02-11T05:08:42.760Z] [info] [START] Loading Swagger 
+[2020-02-11T05:08:42.766Z] [info] [START] Loading Monitor 
+[2020-02-11T05:08:42.769Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:08:42.769Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:08:42.769Z] [info] [START] Server is running! 
+[2020-02-11T05:08:42.770Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:09:04.374Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:09:58.131Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:11:35.410Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:13:18.495Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:16:22.657Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:17:29.369Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:22:05.933Z] [info] [START] Loading Controllers 
+[2020-02-11T05:22:05.934Z] [info] [START] Loading Express 
+[2020-02-11T05:22:05.949Z] [info] [START] Loading Swagger 
+[2020-02-11T05:22:05.956Z] [info] [START] Loading Monitor 
+[2020-02-11T05:22:05.958Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:22:05.959Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:22:05.959Z] [info] [START] Server is running! 
+[2020-02-11T05:22:05.960Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:22:21.922Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:24:28.217Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:26:02.006Z] [info] [START] Loading Controllers 
+[2020-02-11T05:26:02.007Z] [info] [START] Loading Express 
+[2020-02-11T05:26:02.020Z] [info] [START] Loading Swagger 
+[2020-02-11T05:26:02.027Z] [info] [START] Loading Monitor 
+[2020-02-11T05:26:02.029Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:26:02.030Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:26:02.030Z] [info] [START] Server is running! 
+[2020-02-11T05:26:02.031Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:26:10.760Z] [info] [START] Loading Controllers 
+[2020-02-11T05:26:10.761Z] [info] [START] Loading Express 
+[2020-02-11T05:26:10.773Z] [info] [START] Loading Swagger 
+[2020-02-11T05:26:10.781Z] [info] [START] Loading Monitor 
+[2020-02-11T05:26:10.784Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:26:10.784Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:26:10.784Z] [info] [START] Server is running! 
+[2020-02-11T05:26:10.785Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:35:03.580Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:35:40.130Z] [info] [START] Loading Controllers 
+[2020-02-11T05:35:40.132Z] [info] [START] Loading Express 
+[2020-02-11T05:35:40.153Z] [info] [START] Loading Swagger 
+[2020-02-11T05:35:40.162Z] [info] [START] Loading Monitor 
+[2020-02-11T05:35:40.165Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:35:40.165Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:35:40.166Z] [info] [START] Server is running! 
+[2020-02-11T05:35:40.167Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:35:40.204Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:38:59.347Z] [info] [START] Loading Controllers 
+[2020-02-11T05:38:59.348Z] [info] [START] Loading Express 
+[2020-02-11T05:38:59.364Z] [info] [START] Loading Swagger 
+[2020-02-11T05:38:59.371Z] [info] [START] Loading Monitor 
+[2020-02-11T05:38:59.373Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:38:59.374Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:38:59.375Z] [info] [START] Server is running! 
+[2020-02-11T05:38:59.376Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:39:22.833Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:53:11.844Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:56:05.578Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T05:59:44.865Z] [info] [START] Loading Controllers 
+[2020-02-11T05:59:44.867Z] [info] [START] Loading Express 
+[2020-02-11T05:59:44.880Z] [info] [START] Loading Swagger 
+[2020-02-11T05:59:44.887Z] [info] [START] Loading Monitor 
+[2020-02-11T05:59:44.890Z] [info] [START] Loading Root JSON 
+[2020-02-11T05:59:44.890Z] [info] [START] Loading Public Dir 
+[2020-02-11T05:59:44.891Z] [info] [START] Server is running! 
+[2020-02-11T05:59:44.892Z] [info] [START] Server Listening 8884 
+[2020-02-11T05:59:48.565Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:00:32.175Z] [info] [START] Loading Controllers 
+[2020-02-11T06:00:32.176Z] [info] [START] Loading Express 
+[2020-02-11T06:00:32.189Z] [info] [START] Loading Swagger 
+[2020-02-11T06:00:32.196Z] [info] [START] Loading Monitor 
+[2020-02-11T06:00:32.199Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:00:32.200Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:00:32.201Z] [info] [START] Server is running! 
+[2020-02-11T06:00:32.202Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:00:34.314Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:01:23.191Z] [info] [START] Loading Controllers 
+[2020-02-11T06:01:23.192Z] [info] [START] Loading Express 
+[2020-02-11T06:01:23.205Z] [info] [START] Loading Swagger 
+[2020-02-11T06:01:23.211Z] [info] [START] Loading Monitor 
+[2020-02-11T06:01:23.214Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:01:23.215Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:01:23.216Z] [info] [START] Server is running! 
+[2020-02-11T06:01:23.217Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:02:02.225Z] [info] [START] Loading Controllers 
+[2020-02-11T06:02:02.226Z] [info] [START] Loading Express 
+[2020-02-11T06:02:02.239Z] [info] [START] Loading Swagger 
+[2020-02-11T06:02:02.246Z] [info] [START] Loading Monitor 
+[2020-02-11T06:02:02.250Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:02:02.250Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:02:02.251Z] [info] [START] Server is running! 
+[2020-02-11T06:02:02.252Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:02:32.797Z] [info] [START] Loading Controllers 
+[2020-02-11T06:02:32.799Z] [info] [START] Loading Express 
+[2020-02-11T06:02:32.817Z] [info] [START] Loading Swagger 
+[2020-02-11T06:02:32.824Z] [info] [START] Loading Monitor 
+[2020-02-11T06:02:32.827Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:02:32.827Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:02:32.828Z] [info] [START] Server is running! 
+[2020-02-11T06:02:32.829Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:02:34.405Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:02:45.800Z] [info] [START] Loading Controllers 
+[2020-02-11T06:02:45.801Z] [info] [START] Loading Express 
+[2020-02-11T06:02:45.815Z] [info] [START] Loading Swagger 
+[2020-02-11T06:02:45.824Z] [info] [START] Loading Monitor 
+[2020-02-11T06:02:45.828Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:02:45.829Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:02:45.829Z] [info] [START] Server is running! 
+[2020-02-11T06:02:45.831Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:02:46.985Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:03:25.461Z] [info] [START] Loading Controllers 
+[2020-02-11T06:03:25.462Z] [info] [START] Loading Express 
+[2020-02-11T06:03:25.475Z] [info] [START] Loading Swagger 
+[2020-02-11T06:03:25.483Z] [info] [START] Loading Monitor 
+[2020-02-11T06:03:25.486Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:03:25.487Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:03:25.487Z] [info] [START] Server is running! 
+[2020-02-11T06:03:25.488Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:03:27.969Z] [info] [START] Loading Controllers 
+[2020-02-11T06:03:27.974Z] [info] [START] Loading Express 
+[2020-02-11T06:03:28.027Z] [info] [START] Loading Swagger 
+[2020-02-11T06:03:28.036Z] [info] [START] Loading Monitor 
+[2020-02-11T06:03:28.039Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:03:28.039Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:03:28.040Z] [info] [START] Server is running! 
+[2020-02-11T06:03:28.041Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:03:37.163Z] [info] [START] Loading Controllers 
+[2020-02-11T06:03:37.165Z] [info] [START] Loading Express 
+[2020-02-11T06:03:37.178Z] [info] [START] Loading Swagger 
+[2020-02-11T06:03:37.185Z] [info] [START] Loading Monitor 
+[2020-02-11T06:03:37.188Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:03:37.188Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:03:37.189Z] [info] [START] Server is running! 
+[2020-02-11T06:03:37.191Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:04:00.115Z] [info] [START] Loading Controllers 
+[2020-02-11T06:04:00.116Z] [info] [START] Loading Express 
+[2020-02-11T06:04:00.130Z] [info] [START] Loading Swagger 
+[2020-02-11T06:04:00.136Z] [info] [START] Loading Monitor 
+[2020-02-11T06:04:00.139Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:04:00.139Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:04:00.140Z] [info] [START] Server is running! 
+[2020-02-11T06:04:00.141Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:04:18.385Z] [info] [START] Loading Controllers 
+[2020-02-11T06:04:18.386Z] [info] [START] Loading Express 
+[2020-02-11T06:04:18.400Z] [info] [START] Loading Swagger 
+[2020-02-11T06:04:18.407Z] [info] [START] Loading Monitor 
+[2020-02-11T06:04:18.411Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:04:18.412Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:04:18.412Z] [info] [START] Server is running! 
+[2020-02-11T06:04:18.413Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:04:19.921Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:04:39.376Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:04:56.280Z] [info] [START] Loading Controllers 
+[2020-02-11T06:04:56.281Z] [info] [START] Loading Express 
+[2020-02-11T06:04:56.293Z] [info] [START] Loading Swagger 
+[2020-02-11T06:04:56.300Z] [info] [START] Loading Monitor 
+[2020-02-11T06:04:56.303Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:04:56.303Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:04:56.304Z] [info] [START] Server is running! 
+[2020-02-11T06:04:56.305Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:04:58.557Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:05:27.350Z] [info] [START] Loading Controllers 
+[2020-02-11T06:05:27.351Z] [info] [START] Loading Express 
+[2020-02-11T06:05:27.365Z] [info] [START] Loading Swagger 
+[2020-02-11T06:05:27.372Z] [info] [START] Loading Monitor 
+[2020-02-11T06:05:27.375Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:05:27.376Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:05:27.376Z] [info] [START] Server is running! 
+[2020-02-11T06:05:27.377Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:05:29.410Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:02.975Z] [info] [START] Loading Controllers 
+[2020-02-11T06:06:02.976Z] [info] [START] Loading Express 
+[2020-02-11T06:06:02.989Z] [info] [START] Loading Swagger 
+[2020-02-11T06:06:02.995Z] [info] [START] Loading Monitor 
+[2020-02-11T06:06:02.998Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:06:02.999Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:06:02.999Z] [info] [START] Server is running! 
+[2020-02-11T06:06:03.000Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:06:14.404Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:20.769Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:27.944Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:39.948Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:46.125Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:06:50.876Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:07:40.713Z] [info] [START] Loading Controllers 
+[2020-02-11T06:07:40.714Z] [info] [START] Loading Express 
+[2020-02-11T06:07:40.726Z] [info] [START] Loading Swagger 
+[2020-02-11T06:07:40.737Z] [info] [START] Loading Monitor 
+[2020-02-11T06:07:40.741Z] [info] [START] Loading Root JSON 
+[2020-02-11T06:07:40.742Z] [info] [START] Loading Public Dir 
+[2020-02-11T06:07:40.742Z] [info] [START] Server is running! 
+[2020-02-11T06:07:40.744Z] [info] [START] Server Listening 8884 
+[2020-02-11T06:07:58.818Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:08:46.278Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:11:39.868Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:12:21.036Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:18:20.579Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:18:59.927Z] [debug] [EXPRESS] GET /api/receive 
+[2020-02-11T06:19:19.638Z] [debug] [EXPRESS] GET /api/receive 
