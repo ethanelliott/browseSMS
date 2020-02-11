@@ -10,11 +10,11 @@ export default class TwilioService {
         this.client = twilio(env.twilio.accountSid, env.twilio.authToken);
     }
 
-    public sendMessage(): void {
+    public sendMessage(to: string, message: string): void {
         this.client.messages.create({
-            body: 'hello',
+            body: message,
             from: env.twilio.phoneNumber,
-            to: '+19059757241'
+            to: to
         }).then(message => {
             console.log(message);
         })

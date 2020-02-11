@@ -11,7 +11,6 @@ export class MainController {
 
     @Get('/send')
     public send(): any {
-        this.twilioService.sendMessage();
         return "HELLO";
     }
 
@@ -22,6 +21,7 @@ export class MainController {
         @QueryParam('Body') BODY: string,
     ): any {
         console.log(TO, FROM, BODY);
+        this.twilioService.sendMessage(FROM, 'HELLO BACK');
         return "HELLO";
     }
 
