@@ -11,7 +11,7 @@ export default class TwilioService {
     }
 
     public sendMessage(to: string, message: string): void {
-        const MAX_LENGTH = 1000;
+        const MAX_LENGTH = 400;
         let i = 0;
         while (message.length > MAX_LENGTH) {
             let m = message.substring((i * MAX_LENGTH), ((i+1) * MAX_LENGTH) - 1);
