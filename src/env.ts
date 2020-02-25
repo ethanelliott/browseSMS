@@ -17,6 +17,7 @@ export const env = {
         schema: getOsEnv('APP_SCHEMA'),
         routePrefix: getOsEnv('APP_ROUTE_PREFIX'),
         port: normalizePort(process.env.PORT || getOsEnv('APP_PORT')),
+        publicPort: normalizePort(process.env.PUBLIC_PORT || getOsEnv('APP_PUBLIC_PORT')),
         jwt: {
             key: readFileSync(getOsEnv('APP_JWT_KEY')).toString()
         }
