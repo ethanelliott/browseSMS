@@ -36,7 +36,7 @@
     "glob": "^7.1.6",
     "helmet": "^3.15.0",
     "js-base64": "^2.5.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lzutf8": "^0.5.5",
     "microframework-w3tec": "^0.6.3",
     "moment": "^2.24.0",
